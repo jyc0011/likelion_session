@@ -1,0 +1,53 @@
+@import "mainStyle.css";
+
+
+
+.f_b{
+    background-color: var(--color-main-black);
+    display: block;
+    font-family: "Noto Sans KR";
+    padding: 100px 100px;
+}
+
+.f_t_c{
+    display: flex;
+    margin: 50px auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.f_t{
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+    color: #ffffff;
+}
+
+.f_m{
+    color: #ffffff;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+}
+
+.babylion{
+    margin: auto;
+}
+
+.k_l{
+    margin: auto;
+}
+
+.ll_u{
+
+    margin: auto;
+}
+
+a{
+    font-family: "Noto Sans KR";
+    color: #ffffff;
+    text-decoration: none;
+}
