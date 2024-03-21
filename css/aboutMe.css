@@ -1,0 +1,52 @@
+@import "mainStyle.css";
+
+#navbar{
+    width: 600px;
+}
+
+.about_me_div{
+    display: block;
+    background-color: #f8f8f8;
+    width: 600px;
+    height: auto;
+    font-family: "RIDIBatang";
+}
+
+div {
+    display: block;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    color: #333;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    color: #666;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+}
+
+.about_img_div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 0 10px;
+}
+
+#footer{
+    width: 600px;
+}
