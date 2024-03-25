@@ -9,6 +9,9 @@
     width: 600px;
     height: auto;
 }
+.f_t_d{
+    padding: 20px;
+}
 
 .f_t_c{
     display: flex;
